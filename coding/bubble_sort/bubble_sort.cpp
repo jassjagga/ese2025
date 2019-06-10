@@ -2,7 +2,7 @@
  * bubble_sort.cpp
  *
  *  Created on: Jun. 4, 2019
- *      Author: jaswinder Singh
+ *      Author: jaswinder
  */
 #include <iostream>
 
