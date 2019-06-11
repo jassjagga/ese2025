@@ -1,6 +1,6 @@
 /*
  * bubble_sort.cpp
- *
+ *Bubble sort program
  *  Created on: Jun. 4, 2019
  *      Author: jaswinder
  */
