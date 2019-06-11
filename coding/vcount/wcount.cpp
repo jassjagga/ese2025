@@ -1,3 +1,5 @@
+//Counting the word in a sentence
+
 #include<iostream>
 #include<vector>
 #include<algorithm>
