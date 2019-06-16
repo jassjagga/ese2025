@@ -1,4 +1,5 @@
 //Counting the word in a sentence
+//jaswinder singh
 
 #include<iostream>
 #include<vector>
