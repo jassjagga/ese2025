@@ -1,8 +1,8 @@
 /*
  * bubble_sort.cpp
  *  Created on: Jun. 4, 2019
- *      Author: jaswinder 
- */
+ *      Author: jaswinder singh
+ */ 
 #include <iostream>
 
 using namespace std;
