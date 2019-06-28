@@ -1,5 +1,5 @@
 //Counting the word in a sentence
-//jaswinder singh 
+//jaswinder singh sidhu
 //homework 1 for ese2025
 #include<iostream>
 #include<vector>
