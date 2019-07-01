@@ -1,7 +1,7 @@
 //============================================================================
 // Name        : hello.cpp
 // Author      : jaswinder singh
-// Version     : 1
+// Version     : 
 // Copyright   : Your copyright notice
 // Description : Hello World in C++, Ansi-style
 //============================================================================
