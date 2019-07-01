@@ -1,6 +1,5 @@
 //Counting the word in a sentence
 //jaswinder singh sidhu
-//homework 1 for ese2025
 #include<iostream>
 #include<vector>
 #include<algorithm>
