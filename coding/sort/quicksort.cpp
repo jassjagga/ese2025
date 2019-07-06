@@ -1,4 +1,4 @@
-// Example program
+// Example program quick sort
 #include <iostream>
 #include <string>
 using namespace std;
