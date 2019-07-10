@@ -1,7 +1,7 @@
 /*
  * bubble_sort.cpp
  *  Created on: Jun. 4, 2019
- *      Author: jaswinder singh sidhu
+ *      Author: jaswinder singh 
  */ 
 #include <iostream>
 
