@@ -36,6 +36,7 @@ int main()
     
     //this is used to erase the element from the vector
    // my_vec.erase(my_vec.begin());
+   //my_vec.erase(my_vec.begin()+2);
    // cout<<endl;
     //cout<<"now vector is = ";
     //print(my_vec);
