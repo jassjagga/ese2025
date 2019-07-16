@@ -10,7 +10,7 @@ vector<string>::iterator iter;
 /*void print(vector<string> my_vec)
 {
     cout<<"your enter sentence is= ";
-    for(iter=my_vec.begin();iter <my_vec.end();iter++)
+    for(iter=my_vec.begin();iter != my_vec.end();iter++)
     {
     cout<<" "<<*iter;
     
