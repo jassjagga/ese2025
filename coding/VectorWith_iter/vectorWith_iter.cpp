@@ -16,7 +16,14 @@ int main()
     
     for(iter = my_vec.begin(); iter !=my_vec.end(); iter++)
     cout<<" "<<*iter;
-    
+    /*
+    //iterator used to find something from vector
+    for(iter = my_vec.begin();iter !=my_vec.end(); iter++)
+    {
+        if(*iter== "are")
+        cout<<"Woah! We Fount it";
+    }
+    */
     return 0;
     
 }
