@@ -5,12 +5,15 @@
 
 using namespace std;
 
+vector<string>::iterator iter;
+
 /*void print(vector<string> my_vec)
 {
     cout<<"your enter sentence is= ";
-    for(int i=0;i<my_vec.size();i++)
+    for(iter=my_vec.begin();iter <my_vec.end();iter++)
     {
-    cout<<" "<<my_vec.at(i);    
+    cout<<" "<<*iter;
+    
     }
 
 }
@@ -47,8 +50,8 @@ int main()
      wordcount++;   
     }
    
-   // print(my_vec);
-// cout<<"The size of the sentence= "<<my_vec.size();
+  // print(my_vec);
+ // cout<<"The size of the sentence= "<<my_vec.size();
     
     return 0;
     
