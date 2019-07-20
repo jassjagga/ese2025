@@ -35,7 +35,7 @@ int main()
    
    string S ="south";
    cout<<"NOTE-HINT = IF canada is the north than what we can say America is ?"<<endl;
-    cout<<"NOW! Which Direction you want to go bubby! (north,south,west,east)  = "<<endl;
+    cout<<"NOW! Which Direction you want to go bubby! (north,south,west,east)  = " ;
     cin>>direction;
     
     if (direction == S )
