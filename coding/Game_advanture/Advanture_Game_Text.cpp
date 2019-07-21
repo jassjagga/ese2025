@@ -27,7 +27,7 @@ int main()
     }
     else
     {
-        cout<<"('.')So SORRY! You Lost in the CAVE TRY AGAIN"<<endl;
+        cout<<"('.') So SORRY! You Lost in the CAVE TRY AGAIN"<<endl;
         
     }
    
