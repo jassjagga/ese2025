@@ -10,7 +10,7 @@ int main()
    cout<<"**        Adventure Game            **"<<endl;
    cout<<"**                                  **"<<endl;
    cout<<"**************************************"<<endl;
-   cout<<"**********----WELCOME----*************"<<endl;
+   cout<<"***********----WELCOME----*************"<<endl;
    case1:
     int sword= 0;
     string direction;
