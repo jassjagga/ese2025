@@ -1,5 +1,5 @@
 //Counting the word in a sentence using vector
-//jaswinder singh sidhu
+//
 #include<iostream>
 #include<vector>
 #include<algorithm>
