@@ -40,17 +40,7 @@ int main()
 
 
    printMap(myMap);
-
-
-   // while(getline(myFile,words))
-//    {
-        //word=words;
-  //      myMap.insert(words,words);
-//    }
-
-
-
-
+    
     return 0;
 
 }
