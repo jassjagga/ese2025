@@ -12,7 +12,6 @@ int main()
 	log(var);
 	log("pointer first time");
 	log(p);
-	
 	//Acessing the date and writing to it
 	*p = 10;
 	log("log pointr after change");
