@@ -33,9 +33,9 @@ using namespace std;
         if (words!=container[i]) {
             cout<<words <<" : " <<wordCount<<" "<<endl;
             wordCount=0;
-            words=container[i];
         }
         wordCount++;
+        words=container[i];
     }
 
 
