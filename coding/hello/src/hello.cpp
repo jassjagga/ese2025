@@ -1,6 +1,6 @@
 //============================================================================
 // Name        : hello.cpp
-// Author      : jaswinder
+// Author      : jaswinder v
 // Version     : 1.5.4.0
 // Copyright   : Your copyright notice ..
 // Description : Hello World in C++, Ansi-style
