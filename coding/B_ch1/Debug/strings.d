@@ -1,0 +1,1 @@
+strings.o: ../strings.cpp
