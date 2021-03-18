@@ -31,7 +31,6 @@ int main()
         cout<<"('.') So SORRY! You Lost in the CAVE TRY AGAIN"<<endl;
         
     }
-   
    case2:
    
    string S ="south";
