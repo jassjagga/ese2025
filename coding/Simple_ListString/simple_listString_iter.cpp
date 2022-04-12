@@ -34,6 +34,5 @@ int main()
     printList(listWords);
     
     return 0;
-    
-    
+       
 }
