@@ -19,7 +19,6 @@ void printList(list<string> listWords)
     }
 }
 
-
 int main()
 {
     string words;
